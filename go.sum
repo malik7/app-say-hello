@@ -2,6 +2,8 @@ github.com/malik7/go-say-hello v1.0.0 h1:zvwngL0CNmhEqWQT8MoQmkefhbLy8ychJh+w10p
 github.com/malik7/go-say-hello v1.0.0/go.mod h1:FarMlhlN5upQxFXdWtrm6pJPLMJTnl9h0L3pAOUjmu8=
 github.com/malik7/go-say-hello v1.0.1 h1:1rfrIp7E/lG0Hldlm2P+SIX5RCWN8LVQcegWZsxc7gY=
 github.com/malik7/go-say-hello v1.0.1/go.mod h1:FarMlhlN5upQxFXdWtrm6pJPLMJTnl9h0L3pAOUjmu8=
+github.com/malik7/go-say-hello/v2 v2.0.0 h1:lMRlVysykdkI4ABgabQMVjTJV/R/fr2YqXWl8uaYjlU=
+github.com/malik7/go-say-hello/v2 v2.0.0/go.mod h1:ris4J0z2exHg6/YyL46Rid01LxHyMcZpooetBFn+X0Y=
 gitlab.com/MalikChandr122/go-say-hello v1.0.0 h1:W5u798PX/AcvqL1cscRC8R61vMRBKE+N+jdseNC9g0g=
 gitlab.com/MalikChandr122/go-say-hello v1.0.0/go.mod h1:H/avD21jHvhB0ejyxEY0JR24xtGk0p+WWV4ZwbbAWNQ=
 gitlab.com/MalikChandr122/go-say-hello v1.0.1 h1:i8eh9R6xAmb3C0U+/4SIhoCq5VaMC/opX0/Wa5phJS0=
